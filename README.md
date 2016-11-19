@@ -5,7 +5,7 @@ A 2D procedural planet texture generator.
 
 Language: C++
 
-Libraries: SFML
+Libraries: SFML, libnoise
 
 ---
 
